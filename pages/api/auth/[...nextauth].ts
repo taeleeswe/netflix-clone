@@ -15,12 +15,12 @@ export default NextAuth({
           type: "text",
         },
         password: {
-          label: "password",
+          label: "Password",
           type: "password",
         },
       },
       async authorize(credentials) {
-        if (!credential?.email || !credentials?.password) {
+        if (!credentials?.email || !credentials?.password) {
           throw new Error("Email and Password required");
         }
 
