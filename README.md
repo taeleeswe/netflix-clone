@@ -1,17 +1,16 @@
 # Netflix Clone
 
-This project is a Netflix clone built using TypeScript, React, Next.js, and Tailwind CSS. It replicates the core features of Netflix, allowing users to browse and stream movies and TV shows.
+This project is a Netflix clone built using TypeScript, React, Next.js, and Tailwind CSS. It replicates the core features of Netflix, allowing users to browse and stream movies and TV shows. This project is a Full Stack Netflix Clone course of 'Code With Antonio' YouTube Channel.
 
-## Features
-
-- **Browse Content:** Users can explore a wide range of movies and TV shows.
-- **Interactive Interface:** Seamless and intuitive design for effortless navigation.
-- **Streaming Capabilities:** Users can watch trailers and stream content.
-- **Responsive Design:** Compatible with various devices for a consistent user experience.
 
 ## Technologies Used
 
-- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
-- **API Integration:** TMDB API for fetching movie and TV show data
+- **Frontend:** TypeScript, React.js, Next.js, Tailwind CSS
+- **Database:** MongdoDB & Prisma
+- **User Authentication** NextAuth, Google & Github Login
 
-## Installation
+## Screenshot
+
+![netflix clone coding 1](https://github.com/taeleeswe/netflix-clone/assets/123449246/5129eb89-f60b-4f46-8e1b-f83c43a3f589)
+![netflix clone coding 2](https://github.com/taeleeswe/netflix-clone/assets/123449246/864dec7c-5348-42fe-9fd9-98dbddf1a8c8)
+
